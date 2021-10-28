@@ -57,7 +57,7 @@ As before, we are going to adjust the criteria.
 Order
 ```
 
-8. `Apply` the criteria.
+8. `Apply` the criteria. Element should be  uniquely identified (green background).
 
 9. Don't forget to click on `Declare Element`
 
