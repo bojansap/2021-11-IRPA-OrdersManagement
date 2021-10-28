@@ -25,10 +25,10 @@ If you have any questions or get stuck, please let us know.
 
 ## Getting started
 
-We will develop the automation in multiple steps. We will:
+You will develop the automation in multiple steps. You will:
 1. Create a project
 2. Capture the application screen
 3. Define automation: on UI5 and Excel sides
 4. Test automation
 
-We will iteratively ensure that we are on the right track.
+Detailed step-by-step instructions will ensure that you are on the right track.
