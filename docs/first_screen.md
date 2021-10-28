@@ -57,3 +57,5 @@ searchBox
 5. The defined search box element will appear under `Declared elements` with a green status, meaning that the element has been successfully defined.
 
 ![](images/0060_SearchBoxCapture.png)
+
+![](images/0061_SearchBoxCapture-Declared.png)
