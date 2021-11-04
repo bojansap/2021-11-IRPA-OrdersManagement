@@ -3,7 +3,7 @@
 
 # Intro
 
-In this hands-on we are going to automate the extraction of order data from a UI5 app into Excel, with help of SAP Intelligent RPA (SAP iRPA).
+In this hands-on we are going to automate the extraction of order data from a UI5 app into Excel, with help of SAP Intelligent RPA (SAP IRPA).
 
 [Video](images/OrderManagementVideo.mp4 ':include :type=video width=100% controls' )
 
