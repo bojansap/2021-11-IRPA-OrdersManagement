@@ -12,7 +12,7 @@ In this hands-on we are going to automate the extraction of order data from a UI
 
 Before we start, please make sure you have
 - Setup the trial environment, as described in [this blog](https://blogs.sap.com/2021/03/22/sap-intelligent-rpa-2.0-onboarding-sap-business-technology-platform-trial-account/). You should have the Desktop Agent installed locally and have access to the Cloud Studio environment
-- You have the Excel file we are going to use (see link in chat).
+- You have the Excel file we are going to use (see link in chat). [link] (https://bojansap.github.io/2021-11-IRPA-OrdersManagement/Demo_Procurement.xlsx)
 - Have access to the [UI5 app](https://openui5.hana.ondemand.com/test-resources/sap/m/demokit/orderbrowser/webapp/test/mockServer.html)
 
 
