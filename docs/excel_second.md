@@ -50,3 +50,9 @@ IMPORTANT: Make sure that you use button `Edit Expression` to enter formulas in 
 9. Within the main automation `Order Management` we now pass the outputs from `Web Portal` into inputs of `Write Excel`
 
 ![](images/0916.png)
+
+10. Make shure that output parameters are defined for both sub-automation as shown on pictures below:
+
+![](images/0930.png)
+
+![](images/0931.png)
