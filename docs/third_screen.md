@@ -57,7 +57,7 @@ As before, we are going to adjust the criteria.
 Order
 ```
 
-8. `Apply` the criteria. Element should be  uniquely identified (green background).
+8. `Apply` the criteria.
 
 9. Don't forget to click on `Declare Element`
 
@@ -107,7 +107,9 @@ Next, we will define address in a different way, as a collection of multiple ele
 
 ![](images/0240_AddressPickClass.png)
 
-Within iRPA we can also see the underlying technical document structure of the page. We will use this to more precisely select the element that we want.
+![](images/0241_AddressPickClass.png)
+
+Within IRPA we can also see the underlying technical document structure of the page. We will use this to more precisely select the element that we want.
 
 4. Click on `both` at the top to show both the preview, as well as the technical structure.
 
@@ -132,7 +134,7 @@ Shipping Address
 9. Click on `declare element`
 ![](images/0280_RenameShipping.png)
 
-Now the element cannot be uniquely identified, because multiple elemnts fulfill the same criteria. RPA shows this in the error status message as well as a `red x` in the `declared elements` section.
+Now the element cannot be uniquely identified, because multiple elemnts fulfill the same criteria. RPA shows this in the warning status message as well as a `yellow !` in the `declared elements` section.
 
 10. We can create a collection of these multiple elements, by clicking the `3 tags/triangles` under declared elements, while `shipping address` is selected.
 
