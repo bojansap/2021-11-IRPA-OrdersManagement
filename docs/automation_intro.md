@@ -12,7 +12,7 @@ We can start creating our automation from this high level and go down, implement
 
 ## Creating sub-automations
 
-NOTE: Agent should be installed on your machine and connected to your Cloud Facotry tenant (part of the prerequisite activities).
+NOTE: Agent should be installed on your machine (part of the prerequisite activities).
 
 Let's start by creating 3 automation: one main one, one for the UI5 part, one for Excel one
 
@@ -65,7 +65,7 @@ We will repeat this process multiple times to add new steps to the automation. P
 
 1. Be sure that `Order Management` automation is selected (check tab) 
 
-2. Optional: Press on the empty space within the preview to close all other open options
+2. Click on the empty space within the preview to close all other open options
 
 3. Search for the step name in the seach bar
 
