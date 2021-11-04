@@ -63,13 +63,15 @@ Write Excel
 
 We will repeat this process multiple times to add new steps to the automation. Please do this in the following steps.
 
-1. Press on the empty space within the preview to close all other open options
+1. Be sure that `Order Management` automation is selected (check tab) 
 
-2. Search for the step name in the seach bar
+2. Optional: Press on the empty space within the preview to close all other open options
 
-3. If necessary, click on `clear filter` to show all available steps
+3. Search for the step name in the seach bar
 
-4. Select the desired action and `drag and drop` it in the correct position
+4. Optional: If necessary, click on `clear filter` to show all available steps
+
+5. Select the desired action and `drag and drop` it in the correct position
 
 ![](images/0700_DropStep.png)
 
